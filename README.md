@@ -2,7 +2,8 @@
 
 ## Enrollment Prdeciction using Previous Year Data
 
-I have used Separate Enrollment of Govt & Private Schools since 2013
+I have used Separate Enrollment of Govt & Private Schools since 2013.
+
 Files are uploaded herewith 
 
 [Govt Enrollment](https://github.com/Richa2310/Enrollment-Prediction/blob/main/Govtenrollment%20since%202013.csv)
